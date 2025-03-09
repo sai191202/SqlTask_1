@@ -21,10 +21,13 @@ Query Execution Block: Runs different JOIN queries to retrieve combined results.
 Applicability of This SQL Code
 This SQL script is highly useful in real-world applications such as HR databases, company management systems, and enterprise resource planning (ERP) systems, where organizations need to analyze employee records and departmental information. It is particularly relevant in data analytics, reporting, and dashboard development, helping businesses extract insights from relational databases. Additionally, these concepts are crucial for SQL-based job interviews and database-related internships.
 
-By executing this script, users gain a practical understanding of how JOIN operations help merge datasets efficiently and handle missing or unmatched records between tables. This is essential for anyone working with SQL in data science, software development, or cloud-based database management systems. 🚀
-![Screenshot 2025-03-09 163145](https://github.com/user-attachments/assets/051fd495-e72c-4897-9329-041041eb47a8)
+By executing this script, users gain a practical understanding of how JOIN operations help merge datasets efficiently and handle missing or unmatched records between tables. This is essential for anyone working with SQL in data science, software development, or cloud-based database management systems.
 
 # OUTPUT.
+
+
+![Screenshot 2025-03-09 163145](https://github.com/user-attachments/assets/051fd495-e72c-4897-9329-041041eb47a8)
+
 
 
 
