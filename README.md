@@ -3,7 +3,7 @@
 # DESCRIPTION
 COMPANY: CODTECH IT SOLUTIONS NAME: PELLURU SAI INTERN ID:CT12VCC DOMAIN: SQL DURATION: 8 WEEKS MENTOR: NEELA SANTOSH KUMAR
 
-Editor Platform:MySql Relatinal Database Management Sysetm (RDBMS).
+Editor Platform:MySql
 
 The SQL script provided demonstrates various JOIN operations—INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN—which are used to combine data from two related tables: Employees and Departments. These joins help retrieve meaningful relationships between employees and their respective departments. The script first creates both tables and inserts sample data. The Employees table contains employee details, including a department ID (DeptID) referencing the Departments table, which stores department names. The JOIN queries allow us to extract relevant records based on matching DeptID values in both tables.
 
